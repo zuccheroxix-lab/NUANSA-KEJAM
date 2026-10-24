@@ -1,0 +1,7 @@
+{
+  "name": "PASEO GAME ZX",
+  "description": "3D Tactical Battle Royale multiplayer game by ZUCCHERO XANN with realtime Three.js arena, mobile touch controls, and server-authoritative combat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
